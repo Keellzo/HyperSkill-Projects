@@ -1,5 +1,5 @@
 # HyperSkill-Projects
-All projects I completed while earning the Java Developer certificate from Hyperskill.
+Almost all projects I completed while earning the Java Developer certificate from Hyperskill.
 
 ### Note on Project Files:
 - Only the `src` code of each project is included in this repository due to the large number of files associated with every project.
